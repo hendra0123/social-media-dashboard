@@ -1,0 +1,25 @@
+/* Di file CSS Anda (misalnya, App.css atau style.css) */
+
+.icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  .icon-sun {
+    color: #ffeb3b; /* Warna untuk matahari di light mode */
+  }
+  
+  .icon-light {
+    color: #ffeb3b; /* Warna untuk matahari di dark mode */
+  }
+  
+  .icon-moon {
+    color: #8a8a8a; /* Warna untuk bulan di light mode */
+  }
+  
+  .icon-dark {
+    color: #8a8a8a; /* Warna untuk bulan di dark mode */
+  }
+  
